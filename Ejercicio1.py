@@ -1,4 +1,9 @@
-# Lista original de diccionarios
+# --------------------------------------------------------------
+# Autor: Leonardo Mejía
+# Curso: Teoría de la Computación
+# Laboratorio No. 12
+# Ejercicio 1 
+# --------------------------------------------------------------
 D = [
     {'make': 'Nokia', 'model': 216, 'color': 'Black'},
     {'make': 'Apple', 'model': 2, 'color': 'Silver'},

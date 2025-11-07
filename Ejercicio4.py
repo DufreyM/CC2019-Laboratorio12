@@ -1,3 +1,9 @@
+# --------------------------------------------------------------
+# Autor: Leonardo Mejía
+# Curso: Teoría de la Computación
+# Laboratorio No. 12
+# Ejercicio 4 
+# --------------------------------------------------------------
 
 colores = ['rojo', 'verde', 'azul', 'amarillo', 'gris', 'blanco', 'negro']
 borrar = ['amarillo', 'café', 'blanco']
