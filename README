@@ -1,0 +1,21 @@
+Laboratorio No. 12 - Teoría de la Computación
+Autor: Leonardo Mejía
+Fecha: Noviembre 2025
+
+Resumen:
+Este laboratorio contiene ejercicios en Python usando funciones lambda.
+Cada ejercicio representa el 25% de la nota y aplica conceptos funcionales.
+
+Ejercicio 1:
+Ordenar una lista de diccionarios por una clave dada (key).
+
+Ejercicio 2:
+Calcular la potencia n-ésima de cada número en una lista.
+
+Ejercicio 3:
+Calcular la matriz transpuesta (X^T) usando funciones lambda.
+
+Ejercicio 4:
+Eliminar elementos indicados de una lista usando filter() y lambda.
+
+Lenguaje: Python 
